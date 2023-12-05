@@ -1,5 +1,4 @@
 # Ropes
-B+tree mixed con Patricia Tries
 Ropes es una estructura de datos de tipo **b+ tree "combinada" con un patricia trie**. <br>
 La diferencia entre estos es que los Ropes presentan una manera diferente de almacenar data de tipo string en árboles b+ <br>
 Tiene una ventaja sobre la estructura strings y también sobre otras grandes como Tries, Linked List y Árboles B+ <br>
